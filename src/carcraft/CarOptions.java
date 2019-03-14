@@ -3,12 +3,12 @@ package carcraft;
 public class CarOptions implements ICar {
 
 	public CarOptions() {
-		System.out.print("Getting Car Options: \n");
+		System.out.print("  with Car Options: \n");
 	}
 	
 	@Override
 	public String GetDescription() {
-		return "Car Options: " ;
+		return " with the following Options: " ;
 	}
 
 }
