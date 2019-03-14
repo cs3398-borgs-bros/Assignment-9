@@ -9,6 +9,6 @@ public class AirScoop extends CarOptions {
 
     @Override
     public String GetDescription() {
-		return super.GetDescription() + " AirScoop" ;
+		return super.GetDescription() + ", AirScoop" ;
 	}
 }
