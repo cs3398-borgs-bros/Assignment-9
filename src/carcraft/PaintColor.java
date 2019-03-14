@@ -4,6 +4,7 @@ public class PaintColor extends CarOptions {
 
 public PaintColor(ICar car)
 {
+	super(car);
 	System.out.println("Adding paint color to vechile..");
 }
 
