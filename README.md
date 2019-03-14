@@ -2,7 +2,7 @@
 
 Walter - Created CarOptions.java
 
-Elvin - 
+Elvin - Created SuperCharger.java
 
 Daniel - Created AirScoop.java
 
