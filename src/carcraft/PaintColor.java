@@ -2,12 +2,12 @@ package carcraft;
 
 public class PaintColor extends CarOptions {
 
-public Color(ICar car)
+public PaintColor(ICar car)
 {
 	System.out.println("Adding paint color to vechile..");
 }
 
-@Overrride
+@Override
 public String GetDescription(){
 	return super.GetDescription() + " Paint Color";
 }
