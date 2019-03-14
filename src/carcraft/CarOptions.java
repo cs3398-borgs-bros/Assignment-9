@@ -3,7 +3,7 @@ package carcraft;
 public class CarOptions implements ICar {
 
 	public CarOptions() {
-		System.out.print("  with Car Options: \n");
+		System.out.print("Car Add-ons: \n");
 	}
 	
 	@Override
