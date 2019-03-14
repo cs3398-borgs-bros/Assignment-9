@@ -8,7 +8,7 @@ public class CarMain {
 		System.out.println("Starting: Creating Cars using Decorator Pattern\n");
 
 		ICar carA = new AirScoop(new BasicCar());
-		System.out.println("First Car - " + carA.GetDescription());
+		System.out.println("First Car" + carA.GetDescription());
 
 	}
 
