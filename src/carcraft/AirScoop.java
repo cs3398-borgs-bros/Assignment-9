@@ -3,7 +3,7 @@ package carcraft;
 public class AirScoop extends CarOptions {
 
     public AirScoop(ICar car) {
-        System.out.println("Adding Air Scoop to vehicle..");
+        System.out.println(" Adding Air Scoop to vehicle..");
     }
 
     @Override
